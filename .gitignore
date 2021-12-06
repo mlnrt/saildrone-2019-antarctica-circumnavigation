@@ -1,0 +1,7 @@
+.git
+.idea
+.ipynb_checkpoints
+
+*.json
+*.log
+*.pdf
